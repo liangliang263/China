@@ -1,0 +1,23 @@
+body {
+    background-image: linear-gradient(to right, gold, brown);
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+p {
+    text-align: justify;
+    color: white;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    height: auto;
+}
